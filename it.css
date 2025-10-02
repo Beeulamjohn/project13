@@ -1,0 +1,81 @@
+.container{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    background-color: rgb(228, 224, 224);
+    
+}
+.logo{
+    margin-left: 40px;
+}
+.heading{
+    margin-left: 350px;
+    
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(144, 209, 144);
+    border-radius: 4px;
+    font-family: sans-serif;
+    border-color: white;
+    border-width: thin;   
+}
+.container1{
+    width: 100%;
+    height: 400px;
+   background-image: url("mountain.png");
+   background-repeat: no-repeat;
+    background-size: 1400px 400px;
+}
+.texting{
+    margin-left: 200px;
+    padding-top: 30px;
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 20px;
+}
+.line{
+    width: 100px;
+    height: 2px;
+    background-color: rgb(144, 209, 144);
+}
+h5{
+   padding-top: 20px;
+}
+.logo2{
+    margin-top: 120px;
+    
+}
+.line2{
+    width: 100px;
+    height: 3px;
+    background-color: white;
+}
+.container2{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(228, 224, 224);
+    display: flex;
+}
+.texting2{
+    margin-left: 197px;
+    padding-top: 60px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.texting3{
+    margin-left: 197px;
+    padding-top: 28px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texting4{
+    
+     margin-left: 250px;
+    padding-top: 100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
